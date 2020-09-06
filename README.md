@@ -52,11 +52,9 @@ https://www.surveymonkey.com/r/TSVNMGP
   - [Nightingale: The Data Visualization Society's Blog](https://medium.com/nightingale)
   - [What Makes Data Viz Elegant](https://medium.com/nightingale/what-makes-a-data-visualisation-elegant-fb032c3a259e)
   - [Data Viz's Breakthrough Moment in the COVID-19 Crisis](https://medium.com/nightingale/data-visualizations-breakthrough-moment-in-the-covid-19-crisis-ce46627c7db5)
-  - [Interview with John Burn-Murdoch About his COVID Data Viz](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
+  - [Interview with John Burn-Murdoch about his COVID Data Viz](https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae)
 - [City of London Data Design Guidelines](https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/)
-- COVID-19 Data Viz from the Financial Times
-  - [Coronavirus Tracker](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938)
-  - [Global Economic Recovery Tracker](https://www.ft.com/content/272354f2-f970-4ae4-a8ae-848c4baf8f4a)
+- [COVID-19 Tracker from the Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938)
 
 ## Color Resources
 
